@@ -1,3 +1,7 @@
-  .myBorderColor {
+body{
+    font-family: 'Inter Tight', sans-serif;
+}
+
+.myBorderColor {
     border-color: #ffcf07!important;
-  }
+}
